@@ -9,7 +9,7 @@ Tested end-to-end on macOS with SuuntoLink + Suunto app (2026), logbook of 56
 dives from a Suunto HelO2. Windows should work identically. No dependencies —
 stock python3.
 
-## TL;DR — the route that works
+## The route that works
 
 SuuntoLink's "Import dive logs" does **not** read DM5 or its database at all.
 It scans the folder you pick for `*.sml` files (one dive each), validates two
